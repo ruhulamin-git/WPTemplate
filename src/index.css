@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+.hero-section{
+    background: url("./assets/images/banner-1.png") no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.course-module{
+    background: url("./assets/images/Background.JPG") no-repeat center center/cover;
+    height: 100vh;
+}
+.video-module{
+    background: url("./assets/images/videoback.png") no-repeat center center/cover;
+    height: 80vh;
+}
+.offer{
+    background: url("./assets/images/offer.png") no-repeat center center/cover;
+    height: 50vh;
+}
