@@ -1,8 +1,24 @@
-# React + Vite
+# React Vite Project Setup and Run Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Prerequisites
+Make sure you have the following installed:
 
-Currently, two official plugins are available:
+✅ Node.js (LTS version recommended)
+✅ npm or yarn (Package Manager)
+✅ Git (Optional but recommended for version control)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation Steps
+Clone the Repository
+🔹 git clone <your-repository-url>
+🔹 cd <your-project-folder>
+
+## Install Dependencies
+🔹 npm install
+
+## Start the Development Server
+🔹 npm run dev
+
+## This will start the development server, and you can access your project at:
+🔹 http://localhost:5173/ (Default Vite port)
+
+## And Here this projects live site link : https://wptemplate.netlify.app/
